@@ -2,16 +2,8 @@
 
 
 <!--
-**r4skaren/r4skaren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🌱 Atualmente estou em formação na Generatiom Brasil
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: (ela/dela/she/her)
--->
-💅🏽 Pronomes: (ela/dela/she/her)
-
-
-
+**r4skaren/r4skaren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
+--->
  <div>
   <a href="https://github.com/r4skaren">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r4skaren&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
