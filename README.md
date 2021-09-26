@@ -9,10 +9,11 @@
 --->
  <hr size="2">
  <div>
- <h4 align="center">Meu nome é Karen Rodrigues ou apenas Ka. Atualmente estudando na Generation em busca de me tornar uma Dev Full Stack Jr.
- <h4 align="center">Como boa pessoa curiosa que sou, pergunto: o que você está fazendo aqui? 😳
-  🗣 de qualquer forma, me segue ai! E me chame em alguma das minhas redes sociais! 
-  
+ <h5 align="center">Meu nome é Karen Rodrigues ou apenas Ka. Atualmente estudando na Generation em busca de me tornar uma Dev Full Stack Jr.</h5>
+  <h5 align="center">Como boa pessoa curiosa que sou, pergunto: o que você está fazendo aqui? 😳 </h5>
+  <h5 align="center">🗣 de qualquer forma, me segue ai! E me chame em alguma das minhas redes sociais! </h5> 
+ </h5>
+<hr size="3">
  </div>
  <div>
   
@@ -44,13 +45,6 @@
  <img align="center" alt="Ka-Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain.svg"/>
  <br>
  
- ----
-<br>
- <h3 align="left">OUVINDO AGORA</h3>
- [![Spotify](https://spotify-96o3k1wow-r4skaren.vercel.app/)](https://open.spotify.com/user/ty7nv1jzmxwkphl04vofeo7l8)
- 
- ----
-<br>
 <div>
   <img align="right" alt="Estrelas" src="https://belezablackpower.files.wordpress.com/2017/02/tumblr_oitwz7a5vn1ue248wo4_400.gif?w=376&h=156">
 </div>
