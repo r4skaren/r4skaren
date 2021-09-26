@@ -11,9 +11,10 @@
  <div>
  <h5 align="center">Meu nome é Karen Rodrigues ou apenas Ka. Atualmente estudando na Generation para me tornar uma Dev Full Stack Jr.</h5>
   <h5 align="center">Como boa pessoa curiosa que sou, pergunto: o que você está fazendo aqui? 😳</h5>
- 
-  <img align="center" alt="Ka-Figma" height="70" width="70" src="https://c.tenor.com/Oi7xGtqlg9YAAAAM/gretchen-lol.gif">
- 
+ <p align="center">
+<img src="https://c.tenor.com/Oi7xGtqlg9YAAAAM/gretchen-lol.gif" width="80"/>
+  </p>
+
   <h5 align="center">de qualquer forma, me segue ai! E me chame em alguma das minhas redes sociais! </h5> 
 
 <hr size="3">
