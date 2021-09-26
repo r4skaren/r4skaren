@@ -1,7 +1,0 @@
-{
-    "name": "spotifyrskaren",
-    "routes": [
-      { "handle": "filesystem" },
-      { "src": "/(.*)", "status": 404, "dest": "https://spotifyrskaren.com/404.html" }
-    ]
-  }
