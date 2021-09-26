@@ -1,4 +1,7 @@
 {
-    " versão " : 2 ,
-    " rewrites " : [{ " source " : " /(.*) " , " destination " : " / api / $ 1 " }]
+    "name": "spotify",
+    "routes": [
+      { "handle": "filesystem" },
+      { "src": "/(.*)", "status": 404, "dest": "https://spotify.com/404.html" }
+    ]
   }
