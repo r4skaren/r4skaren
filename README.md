@@ -7,6 +7,7 @@
 <!--
 **r4skaren/r4skaren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 --->
+
  <hr size="2">
  <div>
  <h5 align="center">Meu nome é Karen Rodrigues ou apenas Ka. Atualmente estudando na Generation para me tornar uma Dev Full Stack Jr.</h5>
@@ -24,8 +25,8 @@
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
   <div>
    <a href="https://github.com/r4skaren">
-    <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r4skaren&layout=compact&langs_count=7&theme=dark"/> 
-    <img height="166em" src="https://github-readme-stats.vercel.app/api?username=r4skaren&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r4skaren&layout=compact&langs_count=7&theme=dark&title_color=4b7457&border_color=4b7457&bg_color=000000"/> 
+    <img height="166em" src="https://github-readme-stats.vercel.app/api?username=r4skaren&show_icons=true&theme=dark&title_color=4b7457&border_color=4b7457&bg_color=000000&include_all_commits=true&count_private=true"/>
    <br>
   </div>
 <h1></h1>
@@ -61,7 +62,7 @@
  
 <div> 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
- <h3 align="left">🗣 Social Networks for Contact (Rede Sociais para contato):</h3>
+ <h3 align="left"><img src="https://i.pinimg.com/originals/d6/7a/53/d67a53d15232ed9790bc461c1a115726.gif" width="50"> Social Networks for Contact (Rede Sociais para contato):</h3>
  
  <br>
   <a href="https://www.linkedin.com/in/karen-r-o" target="_blank"> <img align="center" alt="Icon-Lin" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/216/216570.png"target="_blank"></a>
