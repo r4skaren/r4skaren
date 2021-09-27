@@ -11,9 +11,9 @@
 
 <hr size="3">
  <h4 align="center">Meu nome é Karen Rodrigues ou apenas Ka. Atualmente estudando na Generation para me tornar uma Dev Full Stack Jr.</h4>
-  <h4 align="center">Como boa pessoa curiosa que sou, pergunto: o que você está fazendo aqui? 😳</h4>
+  <h4 align="center">Como boa pessoa curiosa que sou, pergunto: o que você está fazendo aqui? <img src="https://i.pinimg.com/originals/27/63/9f/27639f2372236ec5763eed47c9eff2c6.gif" width="30"/></h4>
  <p align="center">
-<img src="https://c.tenor.com/Oi7xGtqlg9YAAAAM/gretchen-lol.gif" width="80"/>
+<img src="https://i.pinimg.com/originals/c0/cb/d0/c0cbd02834b1d168ec087a429018b09e.gif" width="80"/>
   </p>
 
   <h4 align="center">De qualquer forma, me segue ai! E me chame em alguma das minhas redes sociais! </h4> 
