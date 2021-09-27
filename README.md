@@ -11,9 +11,9 @@
 
 <hr size="3">
  <h4 align="center">Meu nome é Karen Rodrigues ou apenas Ka. Atualmente estudando na Generation para me tornar uma Dev Full Stack Jr.</h4>
-  <h4 align="center">Como boa pessoa curiosa que sou, pergunto: o que você está fazendo aqui? <img src="https://i.pinimg.com/originals/27/63/9f/27639f2372236ec5763eed47c9eff2c6.gif" width="30"/></h4>
+  <h4 align="center">Como boa pessoa curiosa que sou, pergunto: o que você está fazendo aqui? <img src="https://c.tenor.com/UHtDixeNbMAAAAAC/ami-fat-cat-fgcat.gif" width="50"/></h4>
  <p align="center">
-<img src="https://i.pinimg.com/originals/c0/cb/d0/c0cbd02834b1d168ec087a429018b09e.gif" width="80"/>
+<img src="https://c.tenor.com/9leKkgZ1lc4AAAAC/ami-fat-cat-fgcat.gif" width="80"/>
   </p>
 
   <h4 align="center">De qualquer forma, me segue ai! E me chame em alguma das minhas redes sociais! </h4> 
@@ -34,7 +34,7 @@
  
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
   <div style="display: inline_block">
-    <h3 align="left"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Of the languages and tools I have prior knowledge of (Dos idiomas e ferramentas que tenho um prévio conhecimento):</h3>
+    <h3 align="left"><img src="https://c.tenor.com/rXg-utnCghwAAAAC/ami-fat-cat-fgcat.gif" width="50">Of the languages and tools I have prior knowledge of (Dos idiomas e ferramentas que tenho um prévio conhecimento):</h3>
    <br>
    
   <img align="center" alt="Ka-Figma" height="40" width="40" src="https://img.icons8.com/windows/32/000000/figma.png">
@@ -63,7 +63,7 @@
  
 <div> 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
- <h3 align="left"><img src="https://i.pinimg.com/originals/d6/7a/53/d67a53d15232ed9790bc461c1a115726.gif" width="50"> Social Networks for Contact (Rede Sociais para contato):</h3>
+ <h3 align="left"><img src="https://c.tenor.com/9KRFEXop-4AAAAAC/ami-fat-cat-fgcat.gif" width="50"> Social Networks for Contact (Rede Sociais para contato):</h3>
  
  <br>
   <a href="https://www.linkedin.com/in/karen-r-o" target="_blank"> <img align="center" alt="Icon-Lin" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/216/216570.png"target="_blank"></a>
