@@ -10,18 +10,21 @@
 
 
 <hr size="3">
- <h4 align="center">Meu nome é Karen Rodrigues ou apenas Ka. Atualmente estudando na Generation para me tornar uma Dev Full Stack Jr.</h4>
-  <h4 align="center">Como boa pessoa curiosa que sou, pergunto: o que você está fazendo aqui? <img src="https://c.tenor.com/UHtDixeNbMAAAAAC/ami-fat-cat-fgcat.gif" width="50"/></h4>
+
+<h4 align="center"> Meu nome é Karen Rodrigues ou apenas Ka. Atualmente estudando na Generation para me tornar uma Dev Full Stack Jr.</h4>
+
+
+ <h4 align="center"> Como boa pessoa curiosa que sou, pergunto: o que você está fazendo aqui? <img src="https://c.tenor.com/UHtDixeNbMAAAAAC/ami-fat-cat-fgcat.gif" width="50"</h4>
+<p>
  <p align="center">
 <img src="https://c.tenor.com/9leKkgZ1lc4AAAAC/ami-fat-cat-fgcat.gif" width="80"/>
   </p>
 
-  <h4 align="center">De qualquer forma, me segue ai! E me chame em alguma das minhas redes sociais! </h4> 
+#### -------------------------> De qualquer forma, me segue ai! E me chame em alguma das minhas [redes sociais](https://github.com/r4skaren#-social-networks-for-contact-rede-sociais-para-contato) <---------------------------
 
 <hr size="3">
 
- 
- 
+
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
  
 
