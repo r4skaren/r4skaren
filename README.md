@@ -60,7 +60,7 @@
  
 <div> 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
- <h3 align="left"><img src="https://c.tenor.com/9KRFEXop-4AAAAAC/ami-fat-cat-fgcat.gif" width="50"> Social Networks for Contact (Rede Sociais para contato):</h3>
+ <h3 align="left"><img src="https://c.tenor.com/9KRFEXop-4AAAAAC/ami-fat-cat-fgcat.gif" width="50"> Social Networks for Contact (Redes Sociais para contato):</h3>
  
  <br>
   <a href="https://www.linkedin.com/in/karen-r-o" target="_blank"> <img align="center" alt="Icon-Lin" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/216/216570.png"target="_blank"></a>
