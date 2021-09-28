@@ -40,21 +40,21 @@
     <h3 align="left"><img src="https://c.tenor.com/rXg-utnCghwAAAAC/ami-fat-cat-fgcat.gif" width="50">Of the languages and tools I have prior knowledge of (Dos idiomas e ferramentas que tenho um prévio conhecimento):</h3>
    <br>
    
-  <img align="center" alt="Ka-Figma" height="40" width="40" src="https://img.icons8.com/windows/32/000000/figma.png">
-  <img align="center" alt="Ka-Illustrator" height="40" width="40" src="https://img.icons8.com/wired/64/000000/adobe-illustrator.png">
-  <img align="center" alt="Ka-Xd" height="40" width="40" src="https://img.icons8.com/wired/64/000000/adobe-xd.png">
-  <img align="center" alt="Ka-PS" height="40" width="40" src="https://img.icons8.com/wired/64/000000/adobe-photoshop.png">
-  <img align="center" alt="Ka-Canva" height="40" width="40" src="https://img.icons8.com/wired/64/000000/canva-app.png">
+  <img align="center" alt="Ka-Figma" height="40" width="40" src="https://img.icons8.com/office/16/000000/figma.png"/>
+  <img align="center" alt="Ka-Illustrator" height="40" width="40" src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/>
+  <img align="center" alt="Ka-Xd" height="40" width="40" src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/>
+  <img align="center" alt="Ka-PS" height="40" width="40" src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
+  <img align="center" alt="Ka-Canva" height="40" width="40"src="https://img.icons8.com/doodle/48/000000/canva.png"/>
   <img align="center" alt="Ka-Bootstrap" height="40" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png">
-  <img align="center" alt="Ka-HTML" height="40" width="40" src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-html-programming-and-coding-flatart-icons-outline-flatarticons-1.png">
-  <img align="center" alt="Ka-CSS" height="40" width="40" src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-css-programming-and-coding-flatart-icons-outline-flatarticons-1.png">
-  <img align="center" alt="Ka-Js" height="40" width="40" src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-js-file-programming-and-coding-flatart-icons-outline-flatarticons.png">
-  <img align="center" alt="Ka-Ts" height="40" width="40" src="https://img.icons8.com/windows/32/000000/typescript.png">
-  <img align="center" alt="Ka-Java" height="40" width="40" src="https://img.icons8.com/ios-filled/50/000000/java-coffee-cup-logo--v1.png">
-  <img align="center" alt="Ka-Mysql" height="40" width="40" src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png">
-  <img align="center" alt="Ka-sql" height="40" width="40" src="https://img.icons8.com/ios/50/000000/sql.png">
-  <img align="center" alt="Ka-VS" height="40" width="40" src="https://img.icons8.com/ios/50/000000/visual-studio-logo.png">
-  <img align="center" alt="Ka-Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain.svg"/>
+  <img align="center" alt="Ka-HTML" height="40" width="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-html-file-file-type-justicon-lineal-color-justicon.png"/>
+  <img align="center" alt="Ka-CSS" height="40" width="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-css-file-file-type-justicon-lineal-color-justicon.png"/>
+  <img align="center" alt="Ka-Js" height="40" width="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-js-file-file-type-justicon-lineal-color-justicon.png"/>
+  <img align="center" alt="Ka-Ts" height="40" width="40" src="https://img.icons8.com/color/48/000000/typescript.png"/>
+  <img align="center" alt="Ka-Java" height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>
+  <img align="center" alt="Ka-Mysql" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
+  <img align="center" alt="Ka-sql" height="40" width="40" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-sql-server-big-data-wanicon-lineal-color-wanicon.png"/>
+  <img align="center" alt="Ka-VS" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
+  <img align="center" alt="Ka-Spring" height="40" width="40" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
  <br>
  
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
@@ -73,7 +73,8 @@
  <a href = "mailto:karenrodrigues20120@gmail.com"><img align="center" alt="Icon-Gma" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/304/304082.png" target="_blank"></a>
   <a href="https://www.behance.net/r_skaren" target="_blank"> <img align="center" alt="Icon-Beh" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/216/216558.png"target="_blank"></a>
   <a href="https://instagram.com/r_skaren" target="_blank"><img align="center" alt="Icon-Ins" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/216/216568.png" target="_blank"></a>
- 
-![Snake animation](https://github.com/r4skaren/r4skaren/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
+  
+![Snake animation](https://github.com/r4skaren/r4skaren/blob/output/github-contribution-grid-snake.svg)
+
