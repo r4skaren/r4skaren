@@ -74,5 +74,5 @@
   <a href="https://www.behance.net/r_skaren" target="_blank"> <img align="center" alt="Icon-Beh" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/216/216558.png"target="_blank"></a>
   <a href="https://instagram.com/r_skaren" target="_blank"><img align="center" alt="Icon-Ins" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/216/216568.png" target="_blank"></a>
  
- ![Snake animation](https://github.com/r4skaren/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/r4skaren)
 </div>
