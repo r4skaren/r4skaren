@@ -31,7 +31,7 @@
  
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
   <div style="display: inline_block">
-    <h3 align="left"><img src="https://c.tenor.com/rXg-utnCghwAAAAC/ami-fat-cat-fgcat.gif" width="50">Of the languages and tools I have prior knowledge of (Dos idiomas e ferramentas que tenho um prévio conhecimento):</h3>
+    <h3 align="left"><img src="https://c.tenor.com/rXg-utnCghwAAAAC/ami-fat-cat-fgcat.gif" width="50">Of the languages and tools I have prior knowledge of (Das linguagens e ferramentas que tenho um prévio conhecimento):</h3>
    <br>
    
   <img align="center" alt="Ka-Figma" height="40" width="40" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
