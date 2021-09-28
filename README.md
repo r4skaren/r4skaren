@@ -1,19 +1,13 @@
- 
-<h1 align="center"> OLÁ! BEM VINDE! 👩🏽‍💻</h1>
- 
+<h1 align="center"> OLÁ! BEM VINDE! 👩🏽‍💻 <h1>
 
- 
- 
 <!--
 **r4skaren/r4skaren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 --->
 
-
 <hr size="3">
 
 <h4 align="center"> Meu nome é Karen Rodrigues ou apenas Ka. Atualmente estudando na Generation para me tornar uma Dev Full Stack Jr.</h4>
-
-
+ 
  <h4 align="center"> Como boa pessoa curiosa que sou, pergunto: o que você está fazendo aqui? <img src="https://c.tenor.com/UHtDixeNbMAAAAAC/ami-fat-cat-fgcat.gif" width="50"</h4>
 <p>
  <p align="center">
