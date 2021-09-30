@@ -18,8 +18,10 @@
   <p align="center">
 <img src="https://c.tenor.com/9leKkgZ1lc4AAAAC/ami-fat-cat-fgcat.gif" width="80"/>
   </p>
-
-De qualquer forma, me segue ai! E me chame em alguma das minhas [redes sociais.](https://github.com/r4skaren#-social-networks-for-contact-rede-sociais-para-contato) 
+<p>
+De qualquer forma, me segue ai!  <img align="center" src="https://img.shields.io/github/followers/r4skaren.svg?style=social&label=Follow&maxAge=2592000" width="100"/><p>
+  
+E me chame em alguma das minhas [redes sociais.](https://github.com/r4skaren#-social-networks-for-contact-rede-sociais-para-contato) 
  </td>
   </tr>
 </table>
