@@ -6,7 +6,8 @@
 <table>
   <tr>
     <td align="center">
-     
+     <br>
+      
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ty7nv1jzmxwkphl04vofeo7l8&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
   </sub>
       </a>
