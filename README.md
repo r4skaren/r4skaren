@@ -1,23 +1,30 @@
-<h1 align="center"> OLÁ! BEM VINDE! 👩🏽‍💻 <h1>
+<h1 align="center"> OLÁ! BEM VINDE! 👩🏽‍💻 </h1>
 
 <!--
 **r4skaren/r4skaren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 --->
-
-<hr size="3">
-
-<h4 align="center"> Meu nome é Karen Rodrigues ou apenas Ka. Atualmente estudando na Generation para me tornar uma Dev Full Stack</h4>
- 
- <h4 align="center"> Como boa pessoa curiosa que sou, pergunto: o que você está fazendo aqui? <img src="https://c.tenor.com/UHtDixeNbMAAAAAC/ami-fat-cat-fgcat.gif" width="50"</h4>
-<p>
- <p align="center">
+<table>
+  <tr>
+    <td align="center">
+     
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ty7nv1jzmxwkphl04vofeo7l8&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+  </sub>
+      </a>
+    </td>
+    <td align="center">
+ Meu nome é Karen Rodrigues ou apenas Ka. Atualmente estudando na Generation para me tornar uma Dev Full Stack
+ Como boa pessoa curiosa que sou, pergunto: o que você está fazendo aqui? <img src="https://c.tenor.com/UHtDixeNbMAAAAAC/ami-fat-cat-fgcat.gif" width="50"/>
+  <p align="center">
 <img src="https://c.tenor.com/9leKkgZ1lc4AAAAC/ami-fat-cat-fgcat.gif" width="80"/>
   </p>
 
-#### -------------------------> De qualquer forma, me segue ai! E me chame em alguma das minhas [redes sociais](https://github.com/r4skaren#-social-networks-for-contact-rede-sociais-para-contato) <---------------------------
+De qualquer forma, me segue ai! E me chame em alguma das minhas [redes sociais.](https://github.com/r4skaren#-social-networks-for-contact-rede-sociais-para-contato) 
+ </td>
+  </tr>
+</table>
+<p>
 
 <hr size="3">
-
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
  
