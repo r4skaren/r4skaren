@@ -13,7 +13,7 @@
       </a>
     </td>
     <td align="center">
- Meu nome é Karen Rodrigues ou apenas Ka. Atualmente estudando na Generation para me tornar uma Dev Full Stack
+ Meu nome é Karen Rodrigues ou apenas Ka. Atualmente estudando na Generation para me tornar uma Dev Full Stack!<br>
  Como boa pessoa curiosa que sou, pergunto: o que você está fazendo aqui? <img src="https://c.tenor.com/UHtDixeNbMAAAAAC/ami-fat-cat-fgcat.gif" width="50"/>
   <p align="center">
 <img src="https://c.tenor.com/9leKkgZ1lc4AAAAC/ami-fat-cat-fgcat.gif" width="80"/>
