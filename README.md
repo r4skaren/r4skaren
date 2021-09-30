@@ -28,11 +28,12 @@ De qualquer forma, me segue ai! E me chame em alguma das minhas [redes sociais.]
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
  
-
+<p align="center">
    <a href="https://github.com/r4skaren">
     <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r4skaren&layout=compact&langs_count=7&theme=dark&title_color=4b7457&border_color=4b7457&bg_color=000000"/> 
     <img height="166em" src="https://github-readme-stats.vercel.app/api?username=r4skaren&show_icons=true&theme=dark&title_color=4b7457&border_color=4b7457&bg_color=000000&include_all_commits=true&count_private=true"/>
    <br>
+      </p>
     <hr size="3">
   
  
