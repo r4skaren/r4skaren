@@ -8,7 +8,7 @@
     <td align="center">
      <br>
       
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ty7nv1jzmxwkphl04vofeo7l8&cover_image=true&theme=default)](https://open.spotify.com/user/y7nv1jzmxwkphl04vofeo7l8)
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ty7nv1jzmxwkphl04vofeo7l8&cover_image=true&theme=default)](https://open.spotify.com/user/ty7nv1jzmxwkphl04vofeo7l8)
   </sub>
       </a>
     </td>
