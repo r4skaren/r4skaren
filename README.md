@@ -42,7 +42,7 @@ E me chame em alguma das minhas [redes sociais.](https://github.com/r4skaren#-so
  
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
   <div style="display: inline_block">
-    <h3 align="left"><img src="https://c.tenor.com/rXg-utnCghwAAAAC/ami-fat-cat-fgcat.gif" width="50">Of the languages and tools I have prior knowledge of (Das linguagens e ferramentas que tenho um prévio conhecimento):</h3>
+    <h3 align="left"><img src="https://c.tenor.com/rXg-utnCghwAAAAC/ami-fat-cat-fgcat.gif" width="50"> Das linguagens e ferramentas que tenho um prévio conhecimento:</h3>
    <br>
    
   <img align="center" alt="Ka-Figma" height="40" width="40" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
@@ -72,7 +72,7 @@ E me chame em alguma das minhas [redes sociais.](https://github.com/r4skaren#-so
  
 <div> 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
- <h3 align="left"><img src="https://c.tenor.com/9KRFEXop-4AAAAAC/ami-fat-cat-fgcat.gif" width="50"> Social Networks for Contact (Redes Sociais para contato):</h3>
+ <h3 align="left"><img src="https://c.tenor.com/9KRFEXop-4AAAAAC/ami-fat-cat-fgcat.gif" width="50"> Redes Sociais para contato:</h3>
  
  <br>
   <a href="https://www.linkedin.com/in/karen-r-o" target="_blank"> <img align="center" alt="Icon-Lin" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/216/216570.png"target="_blank"></a>
