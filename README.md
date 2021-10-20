@@ -29,7 +29,7 @@
 <p>
 De qualquer forma, me segue ai!<p>
   
-E me chame em alguma das minhas [redes sociais.](https://github.com/r4skaren#-social-networks-for-contact-rede-sociais-para-contato) 
+E me chame em alguma das minhas redes sociais.
  </td>
   </tr>
 </table>
