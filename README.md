@@ -13,7 +13,7 @@
 --->
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="300" >
      <br>
       
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ty7nv1jzmxwkphl04vofeo7l8&cover_image=true&theme=default)](https://open.spotify.com/user/ty7nv1jzmxwkphl04vofeo7l8)
@@ -21,15 +21,7 @@
       </a>
     </td>
     <td align="center">
- Meu nome é Karen Rodrigues ou apenas Ka. Atualmente estudando na Generation para me tornar uma Dev Full Stack!<br>
- Como boa pessoa curiosa que sou, pergunto: o que você está fazendo aqui? <img src="https://c.tenor.com/UHtDixeNbMAAAAAC/ami-fat-cat-fgcat.gif" width="50"/>
-  <p align="center">
-<img src="https://c.tenor.com/9leKkgZ1lc4AAAAC/ami-fat-cat-fgcat.gif" width="80"/>
-  </p>
-<p>
-De qualquer forma, me segue ai!<p>
-  
-E me chame em alguma das minhas redes sociais.
+
  </td>
   </tr>
 </table>
@@ -50,7 +42,7 @@ E me chame em alguma das minhas redes sociais.
  
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
   <div style="display: inline_block">
-    <h3 align="left"><img src="https://c.tenor.com/rXg-utnCghwAAAAC/ami-fat-cat-fgcat.gif" width="50"> Das linguagens e ferramentas que tenho um prévio conhecimento:</h3>
+    <h3 align="left"><img src="https://c.tenor.com/Zjx4IpPncygAAAAi/yay-cute.gif" width="50"> Das linguagens e ferramentas que tenho um prévio conhecimento:</h3>
    <br>
    
   <img align="center" alt="Ka-Figma" height="40" width="40" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
@@ -80,7 +72,7 @@ E me chame em alguma das minhas redes sociais.
  
 <div> 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
- <h3 align="left"><img src="https://c.tenor.com/9KRFEXop-4AAAAAC/ami-fat-cat-fgcat.gif" width="50"> Redes Sociais para contato:</h3>
+ <h3 align="left"><img src="https://c.tenor.com/tVjoj2nkKvkAAAAi/huh-looking.gif" width="50"> Redes Sociais para contato:</h3>
  
  <br>
   <a href="https://www.linkedin.com/in/karen-r-o" target="_blank"> <img align="center" alt="Icon-Lin" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/216/216570.png"target="_blank"></a>
