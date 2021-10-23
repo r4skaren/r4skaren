@@ -6,7 +6,7 @@
 </table>
    </div>
 
-<h1 align="center"> OLÁ! BEM VINDE! 👩🏽‍💻 </h1>
+<h1 align="center"></h1>
 
 <!--
 **r4skaren/r4skaren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
@@ -15,12 +15,13 @@
   <tr>
     <td align="center" width="300" >
      <br>
-      
+
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ty7nv1jzmxwkphl04vofeo7l8&cover_image=true&theme=default)](https://open.spotify.com/user/ty7nv1jzmxwkphl04vofeo7l8)
   </sub>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="500">
+![iconteste](https://user-images.githubusercontent.com/86742652/138537115-48810741-8bec-4813-997b-479095b5491a.png)
 
  </td>
   </tr>
