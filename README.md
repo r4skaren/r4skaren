@@ -20,7 +20,7 @@
   </sub>
       </a>
     </td>
-    <td align="center" width="500">
+    <td align="center" width="400">
 ![iconteste](https://user-images.githubusercontent.com/86742652/138537115-48810741-8bec-4813-997b-479095b5491a.png)
 
  </td>
