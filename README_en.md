@@ -1,35 +1,29 @@
 <div>
     <table align="right">
- <tr><td><a href="README_es.md"><img src="https://i.imgur.com/aTLvLiO.png" height="18.5" align="center"> Español</a></td></tr>
  <tr><td><a href="README.md"><img src="https://i.imgur.com/0AUV6Hy.png" height="16 align="center">  Português</a></td></tr>
  <tr><td><a href="README_en.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English</a></td></tr>
+ <tr><td><a href="README_es.md"><img src="https://i.imgur.com/aTLvLiO.png" height="18.5" align="center"> Español</a></td></tr>
+ 
 </table>
    </div>
-   
-<h1 align="center"> HI! WELCOME! 👩🏽‍💻 </h1>
+
+<h1 align="center"></h1>
 
 <!--
 **r4skaren/r4skaren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 --->
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="300" >
      <br>
-      
+
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ty7nv1jzmxwkphl04vofeo7l8&cover_image=true&theme=default)](https://open.spotify.com/user/ty7nv1jzmxwkphl04vofeo7l8)
   </sub>
       </a>
     </td>
-    <td align="center">
- My name is Karen Rodrigues or just Ka. Currently studying at Generation to become a Dev Full Stack!<br>
- As a good curious person that I am, I ask: what are you doing here? <img src="https://c.tenor.com/UHtDixeNbMAAAAAC/ami-fat-cat-fgcat.gif" width="50"/>
-  <p align="center">
-<img src="https://c.tenor.com/9leKkgZ1lc4AAAAC/ami-fat-cat-fgcat.gif" width="80"/>
-  </p>
-<p>
-Anyway, follow me there!<p>
-  
-And call me on one of my [social networks.](https://github.com/r4skaren#-social-networks-for-contact-rede-sociais-para-contato) 
+    <td align="center" width="400">
+![iconteste](https://user-images.githubusercontent.com/86742652/138537115-48810741-8bec-4813-997b-479095b5491a.png)
+
  </td>
   </tr>
 </table>
@@ -50,7 +44,7 @@ And call me on one of my [social networks.](https://github.com/r4skaren#-social-
  
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
   <div style="display: inline_block">
-    <h3 align="left"><img src="https://c.tenor.com/rXg-utnCghwAAAAC/ami-fat-cat-fgcat.gif" width="50"> Of the languages and tools I have prior knowledge of:</h3>
+    <h3 align="left"><img src="https://c.tenor.com/Zjx4IpPncygAAAAi/yay-cute.gif" width="50"> Languages and tools that I have prior knowledge of:</h3>
    <br>
    
   <img align="center" alt="Ka-Figma" height="40" width="40" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
@@ -80,7 +74,7 @@ And call me on one of my [social networks.](https://github.com/r4skaren#-social-
  
 <div> 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
- <h3 align="left"><img src="https://c.tenor.com/9KRFEXop-4AAAAAC/ami-fat-cat-fgcat.gif" width="50"> Social Networks for Contact:</h3>
+ <h3 align="left"><img src="https://c.tenor.com/tVjoj2nkKvkAAAAi/huh-looking.gif" width="50"> Social Networks for contact:</h3>
  
  <br>
   <a href="https://www.linkedin.com/in/karen-r-o" target="_blank"> <img align="center" alt="Icon-Lin" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/216/216570.png"target="_blank"></a>
