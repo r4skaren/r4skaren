@@ -64,7 +64,6 @@
   <a href="https://www.linkedin.com/in/karen-r-o" target="_blank"> <img align="center" alt="Icon-Lin" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/216/216570.png"target="_blank"></a>
  <a href = "mailto:karenrodrigues20120@gmail.com"><img align="center" alt="Icon-Gma" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/304/304082.png" target="_blank"></a>
   <a href="https://www.behance.net/r_skaren" target="_blank"> <img align="center" alt="Icon-Beh" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/216/216558.png"target="_blank"></a>
-  <a href="https://instagram.com/r_skaren" target="_blank"><img align="center" alt="Icon-Ins" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/216/216568.png" target="_blank"></a>
 <br>
  <br>
 </div>
