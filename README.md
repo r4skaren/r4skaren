@@ -33,20 +33,16 @@
  
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
   <div style="display: inline_block">
-    <h3 align="left"> Das linguagens e ferramentas que tenho mais utilizado:</h3>
+    <h3 align="left"> 📚 Das linguagens e ferramentas que tenho mais utilizado:</h3>
    <br>
    
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
   ![Github](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
   ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java&logoColor=blue)
-
-  #### 📚 Back-End:
   ![Mysql](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql&logoColor=blue)
   ![SpringBoot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=spring)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-
- #### 📚 Front-End:
  ![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
  ![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
  ![JS](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
