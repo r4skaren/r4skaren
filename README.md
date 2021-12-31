@@ -12,7 +12,7 @@
       </a>
     </td>
     <td>
-    eai! seja muito bem vinde! após alguns anos afastada do que amo, retornei e hoje estou por aqui, aprendendo com diversas pessoas extremamente inteligentes coisas bem legais. que tal trocarmos conhecimento? me chama 💃🏾
+    eai! seja muito bem vinde! após alguns anos afastada do que amo, retornei e hoje estou por aqui, aprendendo com diversas pessoas extremamente inteligentes coisas bem legais. que tal trocarmos conhecimento? me chama 🌻
         <img align= "center" height="300" width="300" src="https://c.tenor.com/OlSbiDtRYE0AAAAi/plants-plant.gif">
     </td>
 </table>
