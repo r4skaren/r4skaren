@@ -2,35 +2,8 @@
 <!--
 **r4skaren/r4skaren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 --->
-<table>
-  <tr>
-    <td align="center" width="500" >
-     <br>
-
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ty7nv1jzmxwkphl04vofeo7l8&cover_image=true&theme=default)](https://open.spotify.com/user/ty7nv1jzmxwkphl04vofeo7l8)
-  </sub>
-      </a>
-    </td>
-    <td>
-    eai! seja muito bem vinde! após alguns anos afastada do que amo, retornei e hoje estou por aqui, aprendendo com diversas pessoas extremamente inteligentes coisas bem legais. que tal trocarmos conhecimento? me chama 🌻
-        <img align= "center" height="300" width="300" src="https://c.tenor.com/OlSbiDtRYE0AAAAi/plants-plant.gif">
-    </td>
-</table>
-<p>
-
-<hr size="3">
-
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
- 
-<p align="center">
-   <a href="https://github.com/r4skaren">
-    <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r4skaren&layout=compact&langs_count=7&theme=dark&title_color=4b7457&border_color=4b7457&bg_color=000000"/> 
-    <img height="166em" src="https://github-readme-stats.vercel.app/api?username=r4skaren&show_icons=true&theme=dark&title_color=4b7457&border_color=4b7457&bg_color=000000&include_all_commits=true&count_private=true"/>
-   <br>
-      </p>
-    <hr size="3">
-  
- 
+   
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
   <div style="display: inline_block">
     <h3 align="left"> 📚 Das linguagens e ferramentas que tenho mais utilizado:</h3>
@@ -52,6 +25,14 @@
 <br>
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
+  <p align="center">
+   <a href="https://github.com/r4skaren">
+    <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r4skaren&layout=compact&langs_count=7&theme=dark&title_color=4b7457&border_color=4b7457&bg_color=000000"/> 
+    <img height="166em" src="https://github-readme-stats.vercel.app/api?username=r4skaren&show_icons=true&theme=dark&title_color=4b7457&border_color=4b7457&bg_color=000000&include_all_commits=true&count_private=true"/>
+   <br>
+      </p>
+    <hr size="3">
+  
   <img align="right" alt="Estrelas" src="https://belezablackpower.files.wordpress.com/2017/02/tumblr_oitwz7a5vn1ue248wo4_400.gif?w=376&h=156">
 
  
