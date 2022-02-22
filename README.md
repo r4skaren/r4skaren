@@ -16,7 +16,7 @@
   
   <div style="display: inline_block">
     <h3 align="left"> 🔧 Das linguagens e ferramentas que tenho algum conhecimento:</h3>
-  <br>
+
   <table align="center">
      <tr>
         <td>
